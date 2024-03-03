@@ -1,2 +1,2 @@
 # IPCS-GLOBAL
-This is the assigment we have perform in our class
+This is the assigments we have perform in our class.
